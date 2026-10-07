@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files; notebook outputs remain available on GitHub
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+._*
+
+# Download the source dataset separately using the README instructions
+data/ab_data.csv
